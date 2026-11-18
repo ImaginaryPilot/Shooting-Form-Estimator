@@ -23,15 +23,20 @@ __pycache__/
 *.avi
 *.mkv
 *.jpg
+*_DifferenceData2D.csv
+*_DistanceData2D.csv
+*_DistanceData2D_*.csv
+
+*_total_distance_hist.png
+
+*_DistanceData2D_count.xlsx
+
+player_M/*.txt
 
 01_student_A/
 02_student_B/
 03_student_C/
 04_student_D/
 20261019ueda/
-player_J/
-player_K/
-player_L/
-player_M/
-player_N/
 Sequence/
+
